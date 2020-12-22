@@ -1,0 +1,6 @@
+--Move snake up,down,left and right to grasp its prey
+--For every prey it consumes,your score is increased by 10
+--If snake gets hit in the boundary wall, you lose the game
+--If snake bites itself, you lose the game
+
+Enjoy Playing
