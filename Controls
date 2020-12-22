@@ -1,0 +1,8 @@
+Controls:
+--Press any key to start the game
+--Press the following keys to move in respective directions:
+  --  'a'-left
+  --  'd'-right
+  --  'w'-up
+  --  's'-down
+--Make sure CapsLocked is turned off in keyboard
